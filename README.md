@@ -1,6 +1,9 @@
-# logic_code_flutter
+# Writting Logical Code Using Dart
 
-A new Flutter project with Writting some Logic code on it
+A new Flutter project with Writting some Logic code on it 
+in this Project i've Writting just some Llogical Code Which is give you randome Number everytime While You Launch the Application!!
+
+Reach me at twitter @vral_parmar
 
 ## Getting Started
 
